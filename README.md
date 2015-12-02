@@ -1,3 +1,3 @@
-# Fengzhichu Theme
+# HOUNGKINGHSI
 
 This is my personal blog  [Indeex](https://indeex.org/thecodeway) 
