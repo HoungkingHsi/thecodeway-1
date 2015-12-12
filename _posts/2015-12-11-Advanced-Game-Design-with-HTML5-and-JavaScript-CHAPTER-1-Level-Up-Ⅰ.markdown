@@ -9,7 +9,7 @@ tags: [HTML5, JavaScript]
 
 
 
-[本章翻译作者 : ] [Houngking Hsi][http://indeex.org/thecodeway] 
+[本章翻译作者 : ] [Houngking Hsi](http://indeex.org/thecodeway) Email:<imisslovelove@live.com>
 
 
 
