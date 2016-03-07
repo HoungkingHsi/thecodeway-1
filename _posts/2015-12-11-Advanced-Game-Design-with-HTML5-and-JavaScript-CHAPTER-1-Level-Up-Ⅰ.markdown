@@ -65,6 +65,9 @@ let anyValue = 4;
 
 
 　　让关键字给出**可变块范围**。这就意味着该变量在它被定义的一对大括号外是不能被访问的。下面是一个例子：
+
+
+
 ```JavaScript
 let say = "hello";
 let outer = "An outer variable";
