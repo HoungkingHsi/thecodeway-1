@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "HTML5和JavaScript高级游戏设计 章一 提升 Ⅱ"
 date:   2016-03-07
@@ -773,3 +773,7 @@ console.log(numbers1D);
 
 
 reduce依次减少从右到左的循环。如果你需要从末位开始循环数组,使用减少的姊妹方法**reduceRight**。你现在有很多新的方法处理数组元素。如果你想快速分配给变量一个数组中的值?
+
+
+
+
